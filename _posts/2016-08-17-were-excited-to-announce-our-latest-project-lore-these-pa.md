@@ -8,15 +8,15 @@ description: >-
   We're excited to announce our latest project, LORE. These past few months have
   really allowed everything to come together quickly, so we hope to have music
   available shortly. 
-datePublished: '2016-08-17T16:48:44.632Z'
-dateModified: '2016-08-17T16:48:22.051Z'
-authors: []
-publisher: {}
+datePublished: '2016-08-17T16:56:22.560Z'
+dateModified: '2016-08-17T16:49:49.912Z'
 title: ''
 author: []
 via: {}
-starred: false
 sourcePath: _posts/2016-08-17-were-excited-to-announce-our-latest-project-lore-these-pa.md
+authors: []
+publisher: {}
+starred: true
 url: were-excited-to-announce-our-latest-project-lore-these-pa/index.html
 _type: Article
 
