@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[• LORE •]]></title>
-        <description><![CDATA[• LORE •]]></description>
+        <title><![CDATA[LORE ]]></title>
+        <description><![CDATA[LORE ]]></description>
         <link>https://thegrid.ai/lore/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 22:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 23:00:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lore/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LORE (Official Promo)]]></title>
+            <description><![CDATA[<article><h1>LORE (Official Promo)</h1><p>LORE is a dream rock band from Lancaster, Pennsylvania. Find them here: Instagram: @lore_band Twitter: @lore_band Facebook: @loredreamrock For booking information and shows, please contact Connor Smith at lorebooking@gmail.com</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=b405YC7jdVk</link>
+            <guid isPermaLink="false">1b00ba37-06a8-4bc6-812c-be107d59eae5</guid>
+            <pubDate>Mon, 22 Aug 2016 22:59:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbf8ff1c-7815-49b3-ad64-18b1a67875c3.jpg">]]></description>
