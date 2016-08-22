@@ -1,6 +1,7 @@
 ---
-datePublished: '2016-08-22T23:47:44.453Z'
+datePublished: '2016-08-22T23:54:09.730Z'
 sourcePath: _posts/2016-08-22-lore-official-promo.md
+hasPage: true
 keywords:
   - lore
   - duration
@@ -18,8 +19,8 @@ author:
     url: 'https://www.youtube.com/channel/UCY-8L0RIFhEzNE4ty8dr7cg'
     avatar: {}
 via: {}
-dateModified: '2016-08-22T23:47:44.176Z'
-title: LORE (Official Promo)
+dateModified: '2016-08-22T23:54:09.465Z'
+title: Between the Folds (Official Promo)
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=b405YC7jdVk&feature=applinks'
     type: ios
@@ -67,13 +68,12 @@ description: >-
   Instagram: @lore_band Twitter: @lore_band Facebook: @loredreamrock For booking
   information and shows, please contact Connor Smith at lorebooking@gmail.com
 inLanguage: en
-hasPage: true
 starred: false
 url: lore-official-promo/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
 ---
-# LORE (Official Promo)
+# Between the Folds (Official Promo)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fb405YC7jdVk%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Db405YC7jdVk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fb405YC7jdVk%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
