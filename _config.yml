@@ -30,6 +30,9 @@ navigation:
   - name: Events
     url: 'https://www.facebook.com/loredreamrock/'
     type: external
+  - name: Video
+    id: 1b00ba37-06a8-4bc6-812c-be107d59eae5
+    type: content
 favicon: null
 title: LORE
 description: 'Dream Rock • Lancaster, PA'
