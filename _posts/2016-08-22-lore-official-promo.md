@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T23:02:16.794Z'
+datePublished: '2016-08-22T23:06:14.845Z'
 sourcePath: _posts/2016-08-22-lore-official-promo.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=b405YC7jdVk'
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.youtube.com/channel/UCY-8L0RIFhEzNE4ty8dr7cg'
     avatar: {}
 via: {}
-dateModified: '2016-08-22T23:02:16.533Z'
+dateModified: '2016-08-22T23:06:14.508Z'
 title: LORE (Official Promo)
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=b405YC7jdVk&feature=applinks'
