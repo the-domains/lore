@@ -1,63 +1,88 @@
 ---
-datePublished: '2016-08-22T23:54:09.730Z'
-sourcePath: _posts/2016-08-22-lore-official-promo.md
-hasPage: true
-keywords:
-  - lore
-  - duration
-  - promo
-  - views
-  - smite
-  - lore_band
-  - chiedipromofirenze
-  - mountain
-  - majesty
-  - freak
-related: []
+datePublished: '2016-08-22T23:58:08.350Z'
+isBasedOnUrl: 'https://www.youtube.com/watch?v=b405YC7jdVk'
 author:
-  - name: LORE Official
+  - name: Official Channel
     url: 'https://www.youtube.com/channel/UCY-8L0RIFhEzNE4ty8dr7cg'
     avatar: {}
 via: {}
-dateModified: '2016-08-22T23:54:09.465Z'
+metadata:
+  datePublished: '2016-08-22T23:54:09.730Z'
+  sourcePath: _posts/2016-08-22-lore-official-promo.md
+  isBasedOnUrl: 'https://www.youtube.com/watch?v=b405YC7jdVk'
+  hasPage: true
+  keywords:
+    - lore
+    - duration
+    - promo
+    - views
+    - smite
+    - lore_band
+    - chiedipromofirenze
+    - mountain
+    - majesty
+    - freak
+  related: []
+  author:
+    - name: LORE Official
+      url: 'https://www.youtube.com/channel/UCY-8L0RIFhEzNE4ty8dr7cg'
+      avatar: {}
+  via: {}
+  '@context': 'http://schema.org'
+  dateModified: '2016-08-22T23:54:09.730Z'
+  title: Between the Folds (Official Promo)
+  '@type': VideoObject
+  app_links:
+    - url: 'vnd.youtube://www.youtube.com/watch?v=b405YC7jdVk&feature=applinks'
+      type: ios
+      namespace: ai
+      app_store_id: '544007664'
+      app_name: YouTube
+    - url: 'vnd.youtube://www.youtube.com/watch?v=b405YC7jdVk&feature=applinks'
+      type: android
+      namespace: ai
+      app_name: YouTube
+      package: com.google.android.youtube
+    - url: 'https://www.youtube.com/watch?v=b405YC7jdVk&feature=applinks'
+      type: web
+      namespace: ai
+    - url: 'vnd.youtube://www.youtube.com/watch?v=b405YC7jdVk&feature=applinks'
+      namespace: twitter
+      type: ipad
+      name: YouTube
+      id: '544007664'
+    - url: 'vnd.youtube://www.youtube.com/watch?v=b405YC7jdVk&feature=applinks'
+      namespace: twitter
+      type: iphone
+      name: YouTube
+      id: '544007664'
+    - url: 'https://www.youtube.com/watch?v=b405YC7jdVk'
+      namespace: twitter
+      type: googleplay
+      name: YouTube
+      id: com.google.android.youtube
+    - path: http/www.youtube.com/watch?v=b405YC7jdVk
+      package: com.google.android.youtube
+      namespace: google
+      type: android
+    - path: vnd.youtube/www.youtube.com/watch?v=b405YC7jdVk
+      package: '544007664'
+      namespace: google
+      type: ios
+  publisher:
+    url: 'https://www.youtube.com/'
+    name: YouTube
+    favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+    domain: www.youtube.com
+  description: >-
+    LORE is a dream rock band from Lancaster, Pennsylvania. Find them here:
+    Instagram: @lore_band Twitter: @lore_band Facebook: @loredreamrock For
+    booking information and shows, please contact Connor Smith at
+    lorebooking@gmail.com
+  inLanguage: en
+dateModified: '2016-08-22T23:58:08.124Z'
 title: Between the Folds (Official Promo)
-app_links:
-  - url: 'vnd.youtube://www.youtube.com/watch?v=b405YC7jdVk&feature=applinks'
-    type: ios
-    namespace: ai
-    app_store_id: '544007664'
-    app_name: YouTube
-  - url: 'vnd.youtube://www.youtube.com/watch?v=b405YC7jdVk&feature=applinks'
-    type: android
-    namespace: ai
-    app_name: YouTube
-    package: com.google.android.youtube
-  - url: 'https://www.youtube.com/watch?v=b405YC7jdVk&feature=applinks'
-    type: web
-    namespace: ai
-  - url: 'vnd.youtube://www.youtube.com/watch?v=b405YC7jdVk&feature=applinks'
-    namespace: twitter
-    type: ipad
-    name: YouTube
-    id: '544007664'
-  - url: 'vnd.youtube://www.youtube.com/watch?v=b405YC7jdVk&feature=applinks'
-    namespace: twitter
-    type: iphone
-    name: YouTube
-    id: '544007664'
-  - url: 'https://www.youtube.com/watch?v=b405YC7jdVk'
-    namespace: twitter
-    type: googleplay
-    name: YouTube
-    id: com.google.android.youtube
-  - path: http/www.youtube.com/watch?v=b405YC7jdVk
-    package: com.google.android.youtube
-    namespace: google
-    type: android
-  - path: vnd.youtube/www.youtube.com/watch?v=b405YC7jdVk
-    package: '544007664'
-    namespace: google
-    type: ios
+id: 1b00ba37-06a8-4bc6-812c-be107d59eae5
 publisher:
   url: 'https://www.youtube.com/'
   name: YouTube
@@ -67,11 +92,12 @@ description: >-
   LORE is a dream rock band from Lancaster, Pennsylvania. Find them here:
   Instagram: @lore_band Twitter: @lore_band Facebook: @loredreamrock For booking
   information and shows, please contact Connor Smith at lorebooking@gmail.com
-inLanguage: en
 starred: false
-url: lore-official-promo/index.html
-_context: 'http://schema.org'
-_type: VideoObject
+sourcePath: _posts/2016-08-22-lore-official-promo.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 # Between the Folds (Official Promo)
