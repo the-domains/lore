@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T23:17:51.370Z'
+datePublished: '2016-08-22T23:20:33.149Z'
 sourcePath: _posts/2016-08-22-lore-official-promo.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=b405YC7jdVk'
 keywords:
@@ -14,9 +14,12 @@ keywords:
   - majesty
   - freak
 related: []
-author: []
+author:
+  - name: LORE Official
+    url: 'https://www.youtube.com/channel/UCY-8L0RIFhEzNE4ty8dr7cg'
+    avatar: {}
 via: {}
-dateModified: '2016-08-22T23:17:51.046Z'
+dateModified: '2016-08-22T23:20:32.856Z'
 title: LORE (Official Promo)
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=b405YC7jdVk&feature=applinks'
@@ -55,8 +58,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-publisher: {}
-description: ''
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: >-
+  LORE is a dream rock band from Lancaster, Pennsylvania. Find them here:
+  Instagram: @lore_band Twitter: @lore_band Facebook: @loredreamrock For booking
+  information and shows, please contact Connor Smith at lorebooking@gmail.com
 inLanguage: en
 starred: false
 inFeed: true
@@ -66,8 +76,6 @@ _context: 'http://schema.org'
 _type: VideoObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecc9bb27-11ff-4a8a-ad77-f7365ae37ab7.jpg)
-
 # LORE (Official Promo)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fb405YC7jdVk%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Db405YC7jdVk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fb405YC7jdVk%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
