@@ -1,21 +1,21 @@
 ---
+datePublished: '2016-08-22T23:23:56.232Z'
+sourcePath: _posts/2016-08-17-were-excited-to-announce-our-latest-project-lore-these-pa.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author: []
+via: {}
+dateModified: '2016-08-22T23:23:55.949Z'
+title: ''
+publisher: {}
 description: >-
   We're excited to announce our latest project, LORE. These past few months have
   really allowed everything to come together quickly, so we hope to have music
   available shortly
-datePublished: '2016-08-22T23:15:39.293Z'
-dateModified: '2016-08-22T23:03:24.681Z'
-title: ''
-author: []
-via: {}
-sourcePath: _posts/2016-08-17-were-excited-to-announce-our-latest-project-lore-these-pa.md
-authors: []
-publisher: {}
+inLanguage: null
+inNav: false
 starred: false
 url: were-excited-to-announce-our-latest-project-lore-these-pa/index.html
 _type: Article
