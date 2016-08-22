@@ -1,7 +1,6 @@
 ---
-datePublished: '2016-08-22T23:30:33.843Z'
+datePublished: '2016-08-22T23:47:44.453Z'
 sourcePath: _posts/2016-08-22-lore-official-promo.md
-isBasedOnUrl: 'https://www.youtube.com/watch?v=b405YC7jdVk'
 keywords:
   - lore
   - duration
@@ -19,7 +18,7 @@ author:
     url: 'https://www.youtube.com/channel/UCY-8L0RIFhEzNE4ty8dr7cg'
     avatar: {}
 via: {}
-dateModified: '2016-08-22T23:30:17.731Z'
+dateModified: '2016-08-22T23:47:44.176Z'
 title: LORE (Official Promo)
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=b405YC7jdVk&feature=applinks'
@@ -68,10 +67,9 @@ description: >-
   Instagram: @lore_band Twitter: @lore_band Facebook: @loredreamrock For booking
   information and shows, please contact Connor Smith at lorebooking@gmail.com
 inLanguage: en
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: lore-official-promo/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
