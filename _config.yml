@@ -19,11 +19,13 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: 'Dream Rock • Lancaster, PA'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d17c515c-f9f6-4c66-9a6f-901aca5b33e2.jpg
+name: 'LORE • Dream Rock • Lancaster, PA'
 cta:
   domain: null
   bucket: null
   version: null
 favicon: null
-title: "LORE\_"
+title: Music for the Mythical
 purpose: []
