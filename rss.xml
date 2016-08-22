@@ -4,7 +4,7 @@
         <description><![CDATA[LORE ]]></description>
         <link>https://thegrid.ai/lore/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 23:02:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 23:03:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lore/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[LORE (Official Promo)]]></title>
@@ -12,13 +12,6 @@
             <link>https://www.youtube.com/watch?v=b405YC7jdVk</link>
             <guid isPermaLink="false">1b00ba37-06a8-4bc6-812c-be107d59eae5</guid>
             <pubDate>Mon, 22 Aug 2016 23:02:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbf8ff1c-7815-49b3-ad64-18b1a67875c3.jpg">]]></description>
-            <link>https://thegrid.ai/lore/were-excited-to-announce-our-latest-project-lore-these-pa/index.html</link>
-            <guid isPermaLink="false">17c7b2c6-8796-4177-bad8-c3bb015b6257</guid>
-            <pubDate>Mon, 22 Aug 2016 22:47:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
