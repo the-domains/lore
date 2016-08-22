@@ -1,20 +1,4 @@
-name: LORE
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.8764875826891512
-title: • LORE •
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -26,4 +10,20 @@ color:
   lightness: 0.184286990435794
   saturation: 0
   rhythmicContrast: 0.874820333905518
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: LORE
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: "LORE\_"
 purpose: []
