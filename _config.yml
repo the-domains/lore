@@ -26,6 +26,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: FaceBook
+    url: 'https://www.facebook.com/loredreamrock/'
+    type: external
 favicon: null
 title: LORE
 description: 'Dream Rock • Lancaster, PA'
