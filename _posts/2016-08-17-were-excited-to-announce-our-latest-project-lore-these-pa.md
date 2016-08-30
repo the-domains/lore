@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T00:00:33.035Z'
+datePublished: '2016-08-28T22:36:15.675Z'
 sourcePath: _posts/2016-08-17-were-excited-to-announce-our-latest-project-lore-these-pa.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-23T00:00:32.818Z'
+dateModified: '2016-08-28T22:36:15.355Z'
 title: ''
 publisher: {}
 description: • More to emerge soon •
@@ -19,4 +19,4 @@ _type: Article
 
 ---
 • More to emerge soon •
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbf8ff1c-7815-49b3-ad64-18b1a67875c3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1df92843-9ea0-4098-a6c8-933e5224697e.jpg)
