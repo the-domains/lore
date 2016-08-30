@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-28T22:38:17.766Z'
+datePublished: '2016-08-28T22:40:24.899Z'
 sourcePath: _posts/2016-08-22-lore-official-promo.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=b405YC7jdVk'
 author:
@@ -7,7 +7,7 @@ author:
     url: 'https://www.youtube.com/channel/UCY-8L0RIFhEzNE4ty8dr7cg'
     avatar: {}
 via: {}
-dateModified: '2016-08-28T22:38:16.952Z'
+dateModified: '2016-08-28T22:40:24.581Z'
 title: Between the Folds (Official Promo)
 id: 1b00ba37-06a8-4bc6-812c-be107d59eae5
 publisher:
